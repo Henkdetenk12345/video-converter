@@ -56,9 +56,9 @@ sudo dnf install ffmpeg
 
 1. **Download the script:**
    ```bash
-   curl -O https://raw.githubusercontent.com/henkdetenk12345/video-converter/main/video_converter.py
+   curl -O https://raw.githubusercontent.com/henkdetenk12345/hardcode-subs-1080p/main/video_converter.py
    # or clone the repo
-   git clone https://github.com/henkdetenk12345/video-converter.git
+   git clone https://github.com/henkdetenk12345/hardcode-subs-1080p.git
    ```
 
 2. **Place your videos and subtitles in the same folder:**
